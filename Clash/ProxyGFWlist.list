@@ -284,7 +284,6 @@ DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,6parker.com
 DOMAIN-SUFFIX,6parknews.com
-DOMAIN-SUFFIX,7-zip.org
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,7cow.com
 DOMAIN-SUFFIX,8-d.com
@@ -1111,7 +1110,7 @@ DOMAIN-SUFFIX,civilhrfront.org
 DOMAIN-SUFFIX,civiliangunner.com
 DOMAIN-SUFFIX,civilmedia.tw
 DOMAIN-SUFFIX,civisec.org
-DOMAIN-SUFFIX,cjb.net
+DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
@@ -1416,6 +1415,7 @@ DOMAIN-SUFFIX,dnset.com
 DOMAIN-SUFFIX,dnsrd.com
 DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
 DOMAIN-SUFFIX,dogfartnetwork.com
@@ -2122,6 +2122,7 @@ DOMAIN-SUFFIX,go141.com
 DOMAIN-SUFFIX,goagent.biz
 DOMAIN-SUFFIX,goagentplus.com
 DOMAIN-SUFFIX,gobet.cc
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godfootsteps.org
 DOMAIN-SUFFIX,godns.work
 DOMAIN-SUFFIX,godoc.org
@@ -2428,6 +2429,7 @@ DOMAIN-SUFFIX,greenpeace.org
 DOMAIN-SUFFIX,greenreadings.com
 DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
+DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,grow.google
 DOMAIN-SUFFIX,gs-discuss.com
@@ -2808,6 +2810,7 @@ DOMAIN-SUFFIX,imagezilla.net
 DOMAIN-SUFFIX,imb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,img.ly
+DOMAIN-SUFFIX,imgasd.com
 DOMAIN-SUFFIX,imgchili.net
 DOMAIN-SUFFIX,imgmega.com
 DOMAIN-SUFFIX,imgur.com
@@ -3188,6 +3191,7 @@ DOMAIN-SUFFIX,lflinkup.org
 DOMAIN-SUFFIX,lfpcontent.com
 DOMAIN-SUFFIX,lhakar.org
 DOMAIN-SUFFIX,lhasocialwork.org
+DOMAIN-SUFFIX,li.taipei
 DOMAIN-SUFFIX,liangyou.net
 DOMAIN-SUFFIX,liangzhichuanmei.com
 DOMAIN-SUFFIX,lianyue.net
@@ -3293,6 +3297,7 @@ DOMAIN-SUFFIX,lyfhk.net
 DOMAIN-SUFFIX,lzjscript.com
 DOMAIN-SUFFIX,lzmtnews.org
 DOMAIN-SUFFIX,m-sport.co.uk
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macrovpn.com
@@ -3498,6 +3503,7 @@ DOMAIN-SUFFIX,monar.ch
 DOMAIN-SUFFIX,mondex.org
 DOMAIN-SUFFIX,money-link.com.tw
 DOMAIN-SUFFIX,moneyhome.biz
+DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monitorchina.org
 DOMAIN-SUFFIX,monitorware.com
 DOMAIN-SUFFIX,monlamit.org
@@ -3967,9 +3973,9 @@ DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,packetix.net
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,padmanet.com
+DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,page.tl
 DOMAIN-SUFFIX,page2rss.com
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,pagodabox.com
 DOMAIN-SUFFIX,palacemoon.com
 DOMAIN-SUFFIX,paldengyal.com
@@ -4112,6 +4118,7 @@ DOMAIN-SUFFIX,pobieramy.top
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,podcast.co
 DOMAIN-SUFFIX,podictionary.com
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,pokerstars.com
 DOMAIN-SUFFIX,pokerstars.net
 DOMAIN-SUFFIX,pokerstrategy.com
@@ -5204,7 +5211,6 @@ DOMAIN-SUFFIX,tpi.org.tw
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,translate.goog
-DOMAIN-SUFFIX,translate.google
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,treemall.com.tw
 DOMAIN-SUFFIX,trendsmap.com
@@ -5863,6 +5869,7 @@ DOMAIN-SUFFIX,xiaod.in
 DOMAIN-SUFFIX,xiaohexie.com
 DOMAIN-SUFFIX,xiaolan.me
 DOMAIN-SUFFIX,xiaoma.org
+DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaxiaoqiang.net
 DOMAIN-SUFFIX,xiezhua.com
 DOMAIN-SUFFIX,xihua.es
@@ -6333,7 +6340,6 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
