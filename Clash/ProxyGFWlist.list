@@ -131,10 +131,6 @@ DOMAIN-SUFFIX,netswap.io
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,io.net
-DOMAIN-KEYWORD,io-worker
-DOMAIN-SUFFIX,io.systems
-DOMAIN-KEYWORD,ionetworkers
 DOMAIN-SUFFIX,ipinfo.io
 
 
@@ -188,7 +184,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
+#DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
