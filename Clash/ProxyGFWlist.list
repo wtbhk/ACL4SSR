@@ -2724,7 +2724,7 @@ DOMAIN-SUFFIX,hudatoriq.web.id
 DOMAIN-SUFFIX,hudson.org
 DOMAIN-SUFFIX,huffingtonpost.com
 DOMAIN-SUFFIX,huffpost.com
-DOMAIN-SUFFIX,huggingface.co
+#DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hugoroy.eu
 DOMAIN-SUFFIX,huhaitai.com
 DOMAIN-SUFFIX,huhamhire.com
