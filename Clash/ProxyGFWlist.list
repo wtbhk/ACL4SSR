@@ -1,7 +1,7 @@
 # 代理列表
 
 # Leps List
-DOMAIN-SUFFIX,ruenas.com
+DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,freenas.org
 DOMAIN-SUFFIX,freebsd.org
 DOMAIN-SUFFIX,jquery.com
@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,freebsd.org
-DOMAIN-SUFFIX,FreeBSD.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,notion.so
