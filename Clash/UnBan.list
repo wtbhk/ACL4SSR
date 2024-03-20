@@ -2,6 +2,7 @@
 
 #Leps
 DOMAIN,speed.cloudflare.com
+DOMAIN,production.cloudflare.docker.com
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
