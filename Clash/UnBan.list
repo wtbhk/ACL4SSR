@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#Leps
+DOMAIN,speed.cloudflare.com
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
