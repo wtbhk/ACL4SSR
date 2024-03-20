@@ -4272,7 +4272,7 @@ DOMAIN-SUFFIX,python.com
 DOMAIN-SUFFIX,python.com.tw
 DOMAIN-SUFFIX,pythonhackers.com
 DOMAIN-SUFFIX,pythonic.life
-DOMAIN-SUFFIX,pytorch.org
+#DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,qanote.com
 DOMAIN-SUFFIX,qgirl.com.tw
 DOMAIN-SUFFIX,qhigh.com
