@@ -125,7 +125,7 @@ DOMAIN-SUFFIX,nostr.band
 DOMAIN-SUFFIX,offchain.pub
 DOMAIN-SUFFIX,gains.trade
 DOMAIN-SUFFIX,netswap.io
-DOMAIN-SUFFIX,aicoin.com
+#DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,ipinfo.io
