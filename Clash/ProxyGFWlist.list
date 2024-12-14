@@ -912,7 +912,7 @@ DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwsj.hk
 DOMAIN-SUFFIX,bx.in.th
 DOMAIN-SUFFIX,bx.tl
-DOMAIN-SUFFIX,bybit.com
+#DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
