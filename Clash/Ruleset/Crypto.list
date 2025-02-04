@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,geolocation.drift-labs.workers.dev
 DOMAIN-SUFFIX,contango.xyz
 DOMAIN-SUFFIX,pendle.finance
 DOMAIN-SUFFIX,jito.network
+DOMAIN-SUFFIX,country.is # pendle用于检查地区的接口
 
 
 # > Forum
