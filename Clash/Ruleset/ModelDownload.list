@@ -1,0 +1,8 @@
+# 内容：模型下载（Hugging Face / Civitai）
+# 数量：6条
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-KEYWORD,civitai-delivery-worker
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
