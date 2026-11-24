@@ -1,11 +1,8 @@
 # 内容：中国媒体列表
-# 更新：2025-04-12 14:50:04
-# 数量：45条
+# 更新：2026-11-21 22:28:11
+# 数量：39条
 
 # Bilibili 哔哩哔哩
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-USER-AGENT,bili-inter*
 DOMAIN,apiintl.biliapi.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
@@ -19,6 +16,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
@@ -26,8 +24,6 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 
 # Iqiyi 爱奇艺
-USER-AGENT,QYPlayer*
-USER-AGENT,iQIYI*
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
@@ -46,10 +42,6 @@ URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com
 
 # Letv 乐视
 DOMAIN-SUFFIX,api.mob.app.letv.com
-
-# MOO
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
 
 # TencentVideo 腾讯视频
 DOMAIN-SUFFIX,v.smtcdns.com

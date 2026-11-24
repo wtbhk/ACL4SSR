@@ -1,5 +1,5 @@
 # 内容：Scholar 国内外学术网站
-# 数量：82条
+# 数量：83条
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aiaa.org
@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,oecd-ilibrary.org
+DOMAIN-SUFFIX,optica.org
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ovid.com
